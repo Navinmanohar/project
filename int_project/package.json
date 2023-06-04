@@ -1,0 +1,24 @@
+{
+  "name": "int_project",
+  "version": "1.0.0",
+  "proxy":"http://localhost:2000",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookies": "^0.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
